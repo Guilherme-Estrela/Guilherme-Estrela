@@ -52,12 +52,6 @@
   ---  
   
   ###
-  
-  # 📊 GitHub Stats:
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Guilherme-Estrela&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </div>
-  
 
   # ⭐ Sobre Mim:
   
@@ -65,6 +59,14 @@
   - Aluno do curso Análise e Desenvolvinento de Sistemas - IFBA.
   - Estagiário na empresa: <a href="https://computacaobrasil.com.br" target="_blank"><code>Computação Brasil</code></a>
   - Amante de café forte :)
+
+  ###
+
+    
+  # 📊 GitHub Stats:
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Guilherme-Estrela&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </div>
 
   ###
   
