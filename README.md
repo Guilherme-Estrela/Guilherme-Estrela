@@ -8,11 +8,6 @@
     <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJlMzdxeWgxYThhYnd1Zjg1MzhheWNha2k5eDU2enQzc2s5ZjUzNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/F73KLZL9eAfDcDQFAt/giphy.gif"  />
   </div>
 
-  ###
-
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Guilherme-Estrela&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </div>
   
   ###
   
@@ -30,7 +25,6 @@
   
   ###  
   
-  # 💻 Stack:
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
     <img width="12" />
@@ -54,6 +48,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   </div>
+
+  ---  
   
   ###
   
@@ -62,7 +58,7 @@
     <img src="https://streak-stats.demolab.com?user=Guilherme-Estrela&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
   
-  ---  
+
   # ⭐ Sobre Mim:
   
   - Me chamo Guilherme Estrela, sou desenvolvedor Back-End com 2 ano de experiência em desenvolvimento de software.
