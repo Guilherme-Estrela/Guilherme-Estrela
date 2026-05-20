@@ -55,9 +55,9 @@
 
   # ⭐ Sobre Mim:
   
-  - Me chamo Guilherme Estrela, sou desenvolvedor Back-End com 1 ano de experiência em desenvolvimento de software.
+  - Me chamo Guilherme Estrela, sou desenvolvedor Back-End com 2 anos de experiência em desenvolvimento de software.
   - Aluno do curso Análise e Desenvolvinento de Sistemas - IFBA.
-  - Estagiário na empresa: <a href="https://computacaobrasil.com.br" target="_blank"><code>Computação Brasil</code></a>
+  - Empresa: <a href="https://computacaobrasil.com.br" target="_blank"><code>Computação Brasil</code></a>
   - Amante de café forte :)
 
   ###
